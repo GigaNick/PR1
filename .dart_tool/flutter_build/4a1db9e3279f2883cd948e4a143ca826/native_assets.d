@@ -1,0 +1,1 @@
+ C:\\Users\\nicka\\Downloads\\PKS_1-main\\PKS_1-main\\.dart_tool\\flutter_build\\4a1db9e3279f2883cd948e4a143ca826\\native_assets.yaml: 
